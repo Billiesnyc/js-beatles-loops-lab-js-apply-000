@@ -6,3 +6,7 @@ for (i = 0; i < musicians.length; i++) {
   answersHere.push(string);
   }
 }
+
+var johnLennonFacts = JohnFacts (facts){
+  
+}
