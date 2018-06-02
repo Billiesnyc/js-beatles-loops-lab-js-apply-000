@@ -23,4 +23,5 @@ var iLoveTheBeatles = function(n){
   do { var statement = "I love the Beatles!";
   declareLove.push(statement);
   }
+  while 
 }
