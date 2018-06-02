@@ -12,5 +12,6 @@ for (i = 0; i < musicians.length; i++) {
 var johnLennonFacts = function(facts){
   while (n < facts.length){
     
+    n++;
   }
 }
