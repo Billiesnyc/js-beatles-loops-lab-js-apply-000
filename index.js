@@ -5,6 +5,7 @@ for (i = 0; i < musicians.length; i++) {
   var string =  musicians[i] + "  plays " + instruments[i];
   answersHere.push(string);
   }
+  return answersHere
 }
 
 var johnLennonFacts = JohnFacts (facts){
