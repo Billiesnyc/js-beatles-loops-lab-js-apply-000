@@ -12,7 +12,7 @@ for (i = 0; i < musicians.length; i++) {
 var johnLennonFacts = function(facts){
   var n = 0;
   while (n < facts.length){
-    facts[n] = facts + "!!!";
+    facts[n] = facts[n] + "!!!";
     n++;
   }
 }
