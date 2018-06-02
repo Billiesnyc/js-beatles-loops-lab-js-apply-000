@@ -22,6 +22,7 @@ var iLoveTheBeatles = function(n){
   var declareLove = [];
   do { var statement = "I love the Beatles!";
   declareLove.push(statement);
+  n++;
      }
   while (declareLove.lenth < n);
   return declareLove
