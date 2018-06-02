@@ -7,9 +7,3 @@ for (i = 0; i < musicians.length; i++) {
   }
   return answersHere
 }
-
-var johnLennonFacts = JohnFacts (facts){
-  while (n < facts.length){
-    
-  }
-}
