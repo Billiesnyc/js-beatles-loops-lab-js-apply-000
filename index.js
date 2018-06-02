@@ -8,5 +8,5 @@ for (i = 0; i < musicians.length; i++) {
 }
 
 var johnLennonFacts = JohnFacts (facts){
-  
+  while 
 }
