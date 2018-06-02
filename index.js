@@ -9,7 +9,7 @@ for (i = 0; i < musicians.length; i++) {
 }
 
 
-var johnLennonFacts = JohnFacts(facts){
+var johnLennonFacts = function(facts){
   while (n < facts.length){
     
   }
