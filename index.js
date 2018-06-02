@@ -22,7 +22,7 @@ var iLoveTheBeatles = function(n){
   var declareLove = [];
   do { var statement = "I love the Beatles!";
   declareLove.push(statement);
-  }
+     }
   while (declareLove.lenth < n);
   return declareLove
 }
