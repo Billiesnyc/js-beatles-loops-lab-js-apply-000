@@ -24,6 +24,6 @@ var iLoveTheBeatles = function(n){
   declareLove.push(statement);
   n++;
      }
-  while (declareLove.lenth < n);
+  while (declareLove.lenth =< 15);
   return declareLove
 }
